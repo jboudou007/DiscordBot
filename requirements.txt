@@ -1,0 +1,7 @@
+discord.py 
+aiohttp 
+python-dotenv 
+sentence-transformers 
+scikit-learn 
+numpy 
+cachetools
