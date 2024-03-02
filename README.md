@@ -100,6 +100,8 @@ Example:
 !ask tell me everything I need to know about this repo as a first time user
 ```
 
+![Bot Screenshot](https://github.com/jboudou007/DiscordBot/blob/main/images/Screenshot%202024-03-02%20150237.png)
+
 ## Contributing
 
 Contributions are welcome! For major changes, please open an issue first to discuss what you would like to change.
