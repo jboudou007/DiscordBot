@@ -30,7 +30,7 @@ async def fetch_github_repo_structure(session):
         return []
 
 
-#feteches the content of a file, which will be used to select relevant files
+#Then we want to fetch the content of a file, which will be used to select relevant files
 async def fetch_file_content(session, file_path):
     """
     Asynchronously fetches the content of a specific file from the GitHub repository.
